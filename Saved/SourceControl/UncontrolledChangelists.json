@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/steven/Desktop/FinalProject/Content/Maps/Stylized_Kingdom.umap",
+				"/Users/steven/Desktop/CS415_FinalProject/Content/Maps/Stylized_Kingdom.umap"
+			]
+		}
+	]
+}
