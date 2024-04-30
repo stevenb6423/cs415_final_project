@@ -1216,3 +1216,566 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.30-06.07.11:006][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 367 ms
 [2024.04.30-06.07.11:010][338]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.30-06.07.11:010][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.30-06.07.59:528][679]LogDerivedDataCache: C:/Users/riyap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.322 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5996 files in 8015 folders with total size 306 MiB.
+[2024.04.30-06.13.34:522][ 51]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.30-06.13.34:643][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.30-06.13.35:756][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-06.13.36:003][ 69]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.30-06.13.36:003][ 69]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/BP_ThirdPersonCharacterCB78CC61444A8ED0BDBD8A96C09B2D6E.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.30-06.13.36:011][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 623 ms)
+[2024.04.30-06.13.36:018][ 69]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.30-06.13.36:018][ 69]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.30-06.13.38:552][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.13.38:563][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.13.38:563][104]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:13:38 PM)
+[2024.04.30-06.13.38:563][104]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.13.38:581][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018310s)
+[2024.04.30-06.13.38:581][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.018369s)
+[2024.04.30-06.13.38:630][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.04.30-06.13.38:632][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.13.38:633][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.13.38:633][104]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.13.38:634][104]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2024.04.30-06.13.38:634][104]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.30-06.13.38:634][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.13.38:634][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.13.38:634][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.13.38:634][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.13.38:634][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.13.38:634][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.13.38:634][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.13.38:634][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.13.38:636][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.13.38:636][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.13.38:636][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.13.38:639][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.13.38:680][104]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.13.38:680][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.13.38:680][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.13.38:680][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.13.38:681][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.30-06.13.38:681][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.30-06.13.38:683][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.30-06.13.38:683][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.30-06.13.38:683][104]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.30-06.13.38:683][104]LogAudio: Display: Audio Device (ID: 3) registered with world 'Wizard_Tower'.
+[2024.04.30-06.13.38:684][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.30-06.13.38:695][104]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.13.38:700][104]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.13.38
+[2024.04.30-06.13.38:701][104]LogWorld: Bringing up level for play took: 0.004408
+[2024.04.30-06.13.38:703][104]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.30-06.13.38:706][104]PIE: Server logged in
+[2024.04.30-06.13.38:707][104]PIE: Play in editor total start time 0.144 seconds.
+[2024.04.30-06.13.42:403][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.13.42:403][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.13.42:403][154]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.13.42:404][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.13.42:482][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.13.42:489][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.13.42:507][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-06.13.42:507][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.30-06.13.42:507][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.30-06.13.42:509][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.30-06.13.42:514][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.13.42:517][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.30-06.13.42:651][155]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.30-06.13.53:401][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.13.53:418][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.13.53:418][342]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:13:53 PM)
+[2024.04.30-06.13.53:419][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.13.53:465][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046003s)
+[2024.04.30-06.13.53:465][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.046106s)
+[2024.04.30-06.13.53:502][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.04.30-06.13.53:506][342]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.13.53:506][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.13.53:507][342]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.13.53:508][342]LogPlayLevel: PIE: World Init took: (0.002070s)
+[2024.04.30-06.13.53:508][342]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.30-06.13.53:508][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.13.53:508][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.13.53:508][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.13.53:508][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.13.53:508][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.13.53:508][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.13.53:508][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.13.53:508][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.13.53:508][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.13.53:508][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.13.53:508][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.13.53:511][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.13.53:547][342]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.13.53:548][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.13.53:548][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.13.53:548][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.13.53:548][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.30-06.13.53:548][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.30-06.13.53:550][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.30-06.13.53:550][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.30-06.13.53:550][342]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.30-06.13.53:550][342]LogAudio: Display: Audio Device (ID: 4) registered with world 'Wizard_Tower'.
+[2024.04.30-06.13.53:550][342]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.30-06.13.53:555][342]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.13.53:560][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.13.53
+[2024.04.30-06.13.53:560][342]LogWorld: Bringing up level for play took: 0.004881
+[2024.04.30-06.13.53:562][342]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.04.30-06.13.53:566][342]PIE: Server logged in
+[2024.04.30-06.13.53:566][342]PIE: Play in editor total start time 0.148 seconds.
+[2024.04.30-06.14.03:674][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.03:674][515]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.03:675][515]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.14.03:677][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.03:751][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.14.03:761][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.03:798][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.03:799][515]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.30-06.14.03:801][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.30-06.14.03:804][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.30-06.14.03:824][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2024.04.30-06.14.03:857][516]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.04.30-06.14.13:760][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-06.14.13:935][640]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.30-06.14.13:936][640]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/BP_ThirdPersonCharacterDFA85FF14DFFFB933A5EAB92CFC446D2.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.30-06.14.13:945][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 808 ms)
+[2024.04.30-06.14.13:948][640]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.30-06.14.13:948][640]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.30-06.14.16:185][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.14.16:195][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.14.16:195][672]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:14:16 PM)
+[2024.04.30-06.14.16:195][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.16:215][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019676s)
+[2024.04.30-06.14.16:215][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.019746s)
+[2024.04.30-06.14.16:262][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.30-06.14.16:265][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.14.16:265][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.14.16:266][672]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.14.16:267][672]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2024.04.30-06.14.16:267][672]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.30-06.14.16:267][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.14.16:267][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.14.16:267][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.14.16:267][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.14.16:267][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.14.16:267][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.14.16:267][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.14.16:267][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.14.16:268][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.14.16:268][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.14.16:268][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.14.16:271][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.14.16:313][672]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.14.16:313][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.14.16:313][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.14.16:313][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.14.16:315][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.30-06.14.16:315][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.30-06.14.16:319][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.30-06.14.16:320][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.30-06.14.16:320][672]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.30-06.14.16:320][672]LogAudio: Display: Audio Device (ID: 5) registered with world 'Wizard_Tower'.
+[2024.04.30-06.14.16:320][672]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.30-06.14.16:345][672]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.14.16:350][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.14.16
+[2024.04.30-06.14.16:350][672]LogWorld: Bringing up level for play took: 0.005102
+[2024.04.30-06.14.16:352][672]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.30-06.14.16:357][672]PIE: Server logged in
+[2024.04.30-06.14.16:358][672]PIE: Play in editor total start time 0.163 seconds.
+[2024.04.30-06.14.18:841][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.18:842][711]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.18:842][711]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.14.18:843][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.18:903][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.14.18:910][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.18:941][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.18:944][711]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.30-06.14.18:944][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.30-06.14.18:948][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.30-06.14.18:959][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.04.30-06.14.18:998][712]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.30-06.14.27:017][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.14.27:033][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.14.27:033][852]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:14:27 PM)
+[2024.04.30-06.14.27:034][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.27:076][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042504s)
+[2024.04.30-06.14.27:076][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.042598s)
+[2024.04.30-06.14.27:116][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.04.30-06.14.27:119][852]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.14.27:119][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.14.27:120][852]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.14.27:120][852]LogPlayLevel: PIE: World Init took: (0.002365s)
+[2024.04.30-06.14.27:120][852]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.30-06.14.27:120][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.14.27:120][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.14.27:120][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.14.27:120][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.14.27:122][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.14.27:122][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.14.27:122][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.14.27:122][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.14.27:122][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.14.27:122][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.14.27:122][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.14.27:126][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.14.27:161][852]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.14.27:161][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.14.27:161][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.14.27:161][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.14.27:162][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.30-06.14.27:162][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.30-06.14.27:164][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.30-06.14.27:164][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.30-06.14.27:164][852]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.30-06.14.27:164][852]LogAudio: Display: Audio Device (ID: 6) registered with world 'Wizard_Tower'.
+[2024.04.30-06.14.27:164][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.30-06.14.27:168][852]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.14.27:172][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.14.27
+[2024.04.30-06.14.27:173][852]LogWorld: Bringing up level for play took: 0.004823
+[2024.04.30-06.14.27:175][852]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.30-06.14.27:179][852]PIE: Server logged in
+[2024.04.30-06.14.27:180][852]PIE: Play in editor total start time 0.147 seconds.
+[2024.04.30-06.14.31:460][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.31:461][908]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.31:461][908]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.14.31:462][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.31:535][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.14.31:542][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.31:568][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.31:570][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.30-06.14.31:570][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.30-06.14.31:574][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.30-06.14.31:592][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.04.30-06.14.31:635][909]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.30-06.14.33:535][931]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.04.30-06.14.39:947][ 49]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.14.39:958][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.14.39:958][ 49]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:14:39 PM)
+[2024.04.30-06.14.39:959][ 49]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.39:988][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029945s)
+[2024.04.30-06.14.39:988][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.030052s)
+[2024.04.30-06.14.40:014][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.04.30-06.14.40:016][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.14.40:016][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.14.40:017][ 49]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.14.40:017][ 49]LogPlayLevel: PIE: World Init took: (0.001595s)
+[2024.04.30-06.14.40:017][ 49]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.30-06.14.40:017][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.14.40:017][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.14.40:017][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.14.40:018][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.14.40:018][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.14.40:018][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.14.40:018][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.14.40:018][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.14.40:019][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.14.40:019][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.14.40:019][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.14.40:021][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.14.40:079][ 49]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.14.40:079][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.14.40:079][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.14.40:079][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.14.40:080][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.30-06.14.40:080][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.30-06.14.40:082][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.30-06.14.40:082][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.30-06.14.40:083][ 49]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.30-06.14.40:083][ 49]LogAudio: Display: Audio Device (ID: 7) registered with world 'Wizard_Tower'.
+[2024.04.30-06.14.40:083][ 49]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.30-06.14.40:087][ 49]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.14.40:092][ 49]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.14.40
+[2024.04.30-06.14.40:092][ 49]LogWorld: Bringing up level for play took: 0.004886
+[2024.04.30-06.14.40:094][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.04.30-06.14.40:099][ 49]PIE: Server logged in
+[2024.04.30-06.14.40:100][ 49]PIE: Play in editor total start time 0.142 seconds.
+[2024.04.30-06.14.44:805][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.44:805][125]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.44:806][125]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.14.44:808][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.44:862][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.14.44:869][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.14.44:891][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.14.44:892][125]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.30-06.14.44:892][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.30-06.14.44:895][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.30-06.14.44:915][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.04.30-06.14.44:955][126]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.30-06.14.57:729][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.14.57:738][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.14.57:738][352]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:14:57 PM)
+[2024.04.30-06.14.57:739][352]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.14.57:765][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025914s)
+[2024.04.30-06.14.57:765][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.026031s)
+[2024.04.30-06.14.57:794][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.04.30-06.14.57:797][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.14.57:797][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.14.57:798][352]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.14.57:798][352]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2024.04.30-06.14.57:798][352]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.30-06.14.57:798][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.14.57:798][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.14.57:798][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.14.57:799][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.14.57:799][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.14.57:799][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.14.57:799][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.14.57:799][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.14.57:799][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.14.57:799][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.14.57:799][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.14.57:802][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.14.57:855][352]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.14.57:855][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.14.57:855][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.14.57:856][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.14.57:856][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.30-06.14.57:856][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.30-06.14.57:858][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.30-06.14.57:858][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.30-06.14.57:858][352]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.30-06.14.57:858][352]LogAudio: Display: Audio Device (ID: 8) registered with world 'Wizard_Tower'.
+[2024.04.30-06.14.57:858][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.30-06.14.57:861][352]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.14.57:867][352]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.14.57
+[2024.04.30-06.14.57:867][352]LogWorld: Bringing up level for play took: 0.005567
+[2024.04.30-06.14.57:870][352]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.30-06.14.57:874][352]PIE: Server logged in
+[2024.04.30-06.14.57:875][352]PIE: Play in editor total start time 0.137 seconds.
+[2024.04.30-06.15.06:310][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.15.06:310][530]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.15.06:310][530]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.15.06:311][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.15.06:355][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.15.06:368][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.15.06:390][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.15.06:392][530]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.30-06.15.06:392][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.30-06.15.06:396][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.30-06.15.06:413][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.04.30-06.15.06:447][531]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.30-06.15.24:539][864]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.15.24:546][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.15.24:546][864]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:15:24 PM)
+[2024.04.30-06.15.24:546][864]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.15.24:563][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016563s)
+[2024.04.30-06.15.24:563][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.016607s)
+[2024.04.30-06.15.24:578][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.30-06.15.24:579][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.15.24:579][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.15.24:580][864]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.15.24:580][864]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2024.04.30-06.15.24:580][864]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.30-06.15.24:580][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.15.24:580][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.15.24:580][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.15.24:580][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.15.24:580][864]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.15.24:580][864]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.15.24:580][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.15.24:580][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.15.24:581][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.15.24:581][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.15.24:581][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.15.24:583][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.15.24:621][864]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.15.24:621][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.15.24:621][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.15.24:621][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.15.24:622][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.30-06.15.24:622][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.30-06.15.24:624][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.30-06.15.24:624][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.30-06.15.24:624][864]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.30-06.15.24:624][864]LogAudio: Display: Audio Device (ID: 9) registered with world 'Wizard_Tower'.
+[2024.04.30-06.15.24:624][864]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.30-06.15.24:627][864]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.15.24:633][864]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.15.24
+[2024.04.30-06.15.24:633][864]LogWorld: Bringing up level for play took: 0.005068
+[2024.04.30-06.15.24:636][864]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.30-06.15.24:640][864]PIE: Server logged in
+[2024.04.30-06.15.24:640][864]PIE: Play in editor total start time 0.094 seconds.
+[2024.04.30-06.15.26:940][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.15.26:940][911]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.15.26:941][911]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.15.26:943][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.15.27:005][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.15.27:013][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.15.27:049][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-06.15.27:050][911]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.30-06.15.27:050][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.30-06.15.27:054][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.30-06.15.27:064][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.15.27:075][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2024.04.30-06.15.27:109][912]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.30-06.15.50:276][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.15.50:286][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.15.50:286][269]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:15:50 PM)
+[2024.04.30-06.15.50:287][269]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.15.50:317][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030251s)
+[2024.04.30-06.15.50:317][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.030337s)
+[2024.04.30-06.15.50:343][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.04.30-06.15.50:346][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.15.50:346][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.15.50:347][269]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.15.50:347][269]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2024.04.30-06.15.50:347][269]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.30-06.15.50:348][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.15.50:348][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.15.50:348][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.15.50:348][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.15.50:348][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.15.50:348][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.15.50:348][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.15.50:348][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.15.50:349][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.15.50:349][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.15.50:349][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.15.50:353][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.15.50:417][269]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.15.50:417][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.15.50:417][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.15.50:417][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.15.50:418][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.30-06.15.50:418][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.30-06.15.50:420][269]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.30-06.15.50:420][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.30-06.15.50:420][269]LogAudio: Display: Audio Device (ID: 10) registered with world 'Wizard_Tower'.
+[2024.04.30-06.15.50:420][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.30-06.15.50:420][269]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.30-06.15.50:424][269]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.15.50:430][269]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.15.50
+[2024.04.30-06.15.50:430][269]LogWorld: Bringing up level for play took: 0.005176
+[2024.04.30-06.15.50:433][269]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.30-06.15.50:436][269]PIE: Server logged in
+[2024.04.30-06.15.50:437][269]PIE: Play in editor total start time 0.151 seconds.
+[2024.04.30-06.16.09:159][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.16.09:159][669]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.16.09:159][669]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.16.09:160][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.16.09:230][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.16.09:238][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.16.09:272][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.16.09:275][669]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.30-06.16.09:275][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.30-06.16.09:279][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.30-06.16.09:297][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.30-06.16.09:334][670]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.30-06.16.20:021][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.16.20:030][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.16.20:030][828]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:16:20 PM)
+[2024.04.30-06.16.20:031][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.16.20:051][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020466s)
+[2024.04.30-06.16.20:051][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.020556s)
+[2024.04.30-06.16.20:119][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.30-06.16.20:121][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.16.20:121][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.16.20:123][828]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.16.20:123][828]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2024.04.30-06.16.20:124][828]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.30-06.16.20:124][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.16.20:124][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.16.20:124][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.16.20:124][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.16.20:124][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.16.20:124][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.16.20:124][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.16.20:124][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.16.20:124][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.16.20:124][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.16.20:124][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.16.20:127][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.16.20:195][828]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.16.20:196][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.16.20:196][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.16.20:196][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.16.20:196][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.30-06.16.20:196][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.30-06.16.20:201][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.30-06.16.20:201][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.30-06.16.20:201][828]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.30-06.16.20:201][828]LogAudio: Display: Audio Device (ID: 11) registered with world 'Wizard_Tower'.
+[2024.04.30-06.16.20:201][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.30-06.16.20:207][828]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.16.20:215][828]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.16.20
+[2024.04.30-06.16.20:215][828]LogWorld: Bringing up level for play took: 0.006807
+[2024.04.30-06.16.20:218][828]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.04.30-06.16.20:222][828]PIE: Server logged in
+[2024.04.30-06.16.20:223][828]PIE: Play in editor total start time 0.193 seconds.
+[2024.04.30-06.16.23:347][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.16.23:347][888]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.16.23:347][888]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.16.23:349][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.16.23:409][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.16.23:421][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.16.23:452][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.16.23:454][888]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.30-06.16.23:454][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.30-06.16.23:457][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.30-06.16.23:478][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2024.04.30-06.16.23:508][889]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.04.30-06.16.29:639][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-06.16.29:822][992]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.30-06.16.29:822][992]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/BP_ThirdPersonCharacter44A2BB7F464F2E21796873940C1D32B2.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.30-06.16.29:831][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 1.00 sec)
+[2024.04.30-06.16.29:833][992]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.30-06.16.29:834][992]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.30-06.16.32:518][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.30-06.16.32:535][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.30-06.16.32:535][ 41]PIE: New page: PIE session: Wizard_Tower (Apr 29, 2024, 8:16:32 PM)
+[2024.04.30-06.16.32:535][ 41]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.16.32:578][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042259s)
+[2024.04.30-06.16.32:578][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.042366s)
+[2024.04.30-06.16.32:604][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.30-06.16.32:607][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.16.32:607][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-06.16.32:608][ 41]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.04.30-06.16.32:609][ 41]LogPlayLevel: PIE: World Init took: (0.002273s)
+[2024.04.30-06.16.32:609][ 41]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.30-06.16.32:609][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-06.16.32:610][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-06.16.32:610][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-06.16.32:610][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-06.16.32:610][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-06.16.32:610][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.30-06.16.32:610][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-06.16.32:610][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-06.16.32:611][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-06.16.32:611][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-06.16.32:611][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-06.16.32:615][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-06.16.32:653][ 41]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.30-06.16.32:653][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-06.16.32:653][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-06.16.32:653][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-06.16.32:655][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.30-06.16.32:655][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.04.30-06.16.32:657][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.30-06.16.32:657][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.30-06.16.32:657][ 41]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.30-06.16.32:657][ 41]LogAudio: Display: Audio Device (ID: 12) registered with world 'Wizard_Tower'.
+[2024.04.30-06.16.32:657][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.30-06.16.32:660][ 41]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.30-06.16.32:665][ 41]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 60) at 2024.04.30-01.16.32
+[2024.04.30-06.16.32:665][ 41]LogWorld: Bringing up level for play took: 0.004721
+[2024.04.30-06.16.32:668][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.30-06.16.32:671][ 41]PIE: Server logged in
+[2024.04.30-06.16.32:672][ 41]PIE: Play in editor total start time 0.138 seconds.
+[2024.04.30-06.16.41:213][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.16.41:213][190]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.04.30-06.16.41:214][190]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-06.16.41:215][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.16.41:274][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.30-06.16.41:283][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-06.16.41:314][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-06.16.41:315][190]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.30-06.16.41:315][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.30-06.16.41:319][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.30-06.16.41:338][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.04.30-06.16.41:375][191]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.30-06.16.44:289][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-06.17.40:110][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.30-06.17.40:208][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.30-06.17.40:263][153]LogSavePackage: Moving output files for package: /Game/Maps/Wizard_Tower
+[2024.04.30-06.17.40:264][153]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/Wizard_TowerBF41BD25426F35D9698CD390C2BCB3A9.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/Maps/Wizard_Tower.umap'
+[2024.04.30-06.17.40:273][153]LogFileHelpers: Saving map 'Wizard_Tower' took 0.103
+[2024.04.30-06.17.40:288][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1.18 sec)
+[2024.04.30-06.17.40:290][153]AssetCheck: New page: Asset Save: Wizard_Tower
+[2024.04.30-06.17.40:290][153]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Wizard_Tower.Wizard_Tower
