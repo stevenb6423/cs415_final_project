@@ -1744,3 +1744,214 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.01-22.15.11:655][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.01-22.15.11:664][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
 [2024.05.01-22.15.11:777][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.01-22.17.41:906][900]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HealthBar.HealthBar
+[2024.05.01-22.17.41:907][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-22.17.41:907][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-22.17.42:046][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-22.17.42:046][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-22.19.33:669][310]BlueprintLog: New page: Compile WBP_Timer
+[2024.05.01-22.19.33:742][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.05.01-22.19.34:737][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-22.19.34:906][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Timer" FILE="../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset" SILENT=true
+[2024.05.01-22.19.34:914][324]LogSavePackage: Moving output files for package: /Game/UI/WBP_Timer
+[2024.05.01-22.19.34:915][324]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/WBP_TimerBE6431B9421BC32671A8A2BA3586F6E2.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset'
+[2024.05.01-22.19.34:921][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 3.79 sec)
+[2024.05.01-22.19.34:924][324]AssetCheck: New page: Asset Save: WBP_Timer
+[2024.05.01-22.19.34:924][324]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Timer.WBP_Timer
+[2024.05.01-22.19.49:948][523]BlueprintLog: New page: Compile WBP_Timer
+[2024.05.01-22.19.50:018][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.05.01-22.19.51:017][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-22.19.51:189][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Timer" FILE="../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset" SILENT=true
+[2024.05.01-22.19.51:197][537]LogSavePackage: Moving output files for package: /Game/UI/WBP_Timer
+[2024.05.01-22.19.51:197][537]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/WBP_Timer629AECCE4EAE03C9FE7EFEBB5CBD1B9A.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset'
+[2024.05.01-22.19.51:205][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 3.98 sec)
+[2024.05.01-22.19.51:210][537]AssetCheck: New page: Asset Save: WBP_Timer
+[2024.05.01-22.19.51:211][537]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Timer.WBP_Timer
+[2024.05.01-22.21.39:054][939]BlueprintLog: New page: Compile WBP_Timer
+[2024.05.01-22.21.39:126][939]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2024.05.01-22.21.40:011][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-22.21.40:193][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Timer" FILE="../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset" SILENT=true
+[2024.05.01-22.21.40:201][952]LogSavePackage: Moving output files for package: /Game/UI/WBP_Timer
+[2024.05.01-22.21.40:201][952]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/WBP_Timer599AE058491EEA0AFF6C2F9B0314F62A.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset'
+[2024.05.01-22.21.40:209][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 4.18 sec)
+[2024.05.01-22.21.40:214][952]AssetCheck: New page: Asset Save: WBP_Timer
+[2024.05.01-22.21.40:215][952]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Timer.WBP_Timer
+[2024.05.01-22.21.48:750][ 68]BlueprintLog: New page: Compile WBP_Timer
+[2024.05.01-22.21.48:822][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.05.01-22.21.51:837][109]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.01-22.21.51:856][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.01-22.21.51:856][109]PIE: New page: PIE session: Wizard_Tower (May 1, 2024, 12:21:51 PM)
+[2024.05.01-22.21.51:856][109]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.21.51:916][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060486s)
+[2024.05.01-22.21.51:916][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.060583s)
+[2024.05.01-22.21.51:951][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.05.01-22.21.51:961][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-22.21.51:961][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-22.21.51:962][109]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.05.01-22.21.51:962][109]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2024.05.01-22.21.51:962][109]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.01-22.21.51:963][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.01-22.21.51:963][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.01-22.21.51:963][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.01-22.21.51:963][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.01-22.21.51:963][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.01-22.21.51:963][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.01-22.21.51:963][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.01-22.21.51:963][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.01-22.21.51:963][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.01-22.21.51:963][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.01-22.21.51:963][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.01-22.21.51:966][109]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.01-22.21.52:009][109]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.05.01-22.21.52:010][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.01-22.21.52:010][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.01-22.21.52:010][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.01-22.21.52:010][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.01-22.21.52:010][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.01-22.21.52:012][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.01-22.21.52:012][109]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.01-22.21.52:012][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.01-22.21.52:012][109]LogAudio: Display: Audio Device (ID: 9) registered with world 'Wizard_Tower'.
+[2024.05.01-22.21.52:012][109]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.01-22.21.52:017][109]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.01-22.21.52:026][109]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 0) at 2024.05.01-17.21.52
+[2024.05.01-22.21.52:027][109]LogWorld: Bringing up level for play took: 0.009168
+[2024.05.01-22.21.52:030][109]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.05.01-22.21.52:033][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.21.52:034][109]PIE: Server logged in
+[2024.05.01-22.21.52:035][109]PIE: Play in editor total start time 0.179 seconds.
+[2024.05.01-22.22.03:769][273]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.01-22.22.03:769][273]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.01-22.22.10:768][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.22.10:768][394]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.22.10:769][394]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.05.01-22.22.10:771][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-22.22.10:831][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.01-22.22.10:840][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-22.22.10:868][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.01-22.22.10:869][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.01-22.22.10:869][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.01-22.22.10:871][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.01-22.22.10:878][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.22.10:887][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2024.05.01-22.22.10:954][395]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.05.01-22.23.40:109][593]BlueprintLog: New page: Compile WBP_Timer
+[2024.05.01-22.23.40:190][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.05.01-22.23.41:217][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-22.23.41:540][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Timer" FILE="../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset" SILENT=true
+[2024.05.01-22.23.41:548][608]LogSavePackage: Moving output files for package: /Game/UI/WBP_Timer
+[2024.05.01-22.23.41:549][608]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/WBP_TimerF9F0592A44C02868A820E7903CE1E84A.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset'
+[2024.05.01-22.23.41:557][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 340 ms (total: 4.52 sec)
+[2024.05.01-22.23.41:560][608]AssetCheck: New page: Asset Save: WBP_Timer
+[2024.05.01-22.23.41:560][608]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Timer.WBP_Timer
+[2024.05.01-22.23.43:398][639]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.01-22.23.43:416][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.01-22.23.43:416][639]PIE: New page: PIE session: Wizard_Tower (May 1, 2024, 12:23:43 PM)
+[2024.05.01-22.23.43:416][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.23.43:475][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058581s)
+[2024.05.01-22.23.43:475][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.058704s)
+[2024.05.01-22.23.43:510][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2024.05.01-22.23.43:521][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-22.23.43:521][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-22.23.43:522][639]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.05.01-22.23.43:522][639]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2024.05.01-22.23.43:522][639]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.01-22.23.43:522][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.01-22.23.43:522][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.01-22.23.43:522][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.01-22.23.43:522][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.01-22.23.43:522][639]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.01-22.23.43:522][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.01-22.23.43:522][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.01-22.23.43:522][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.01-22.23.43:523][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.01-22.23.43:523][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.01-22.23.43:523][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.01-22.23.43:526][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.01-22.23.43:559][639]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.05.01-22.23.43:560][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.01-22.23.43:560][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.01-22.23.43:560][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.01-22.23.43:560][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.01-22.23.43:560][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.05.01-22.23.43:562][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.01-22.23.43:562][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.01-22.23.43:562][639]LogInit: FAudioDevice initialized with ID 10.
+[2024.05.01-22.23.43:562][639]LogAudio: Display: Audio Device (ID: 10) registered with world 'Wizard_Tower'.
+[2024.05.01-22.23.43:562][639]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.01-22.23.43:566][639]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.01-22.23.43:575][639]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 0) at 2024.05.01-17.23.43
+[2024.05.01-22.23.43:575][639]LogWorld: Bringing up level for play took: 0.008126
+[2024.05.01-22.23.43:578][639]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.01-22.23.43:581][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.23.43:582][639]PIE: Server logged in
+[2024.05.01-22.23.43:583][639]PIE: Play in editor total start time 0.167 seconds.
+[2024.05.01-22.23.55:370][818]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.01-22.23.55:370][818]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.01-22.24.16:034][942]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.01-22.24.16:035][942]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.01-22.24.16:038][942]LogNet: Browse: /Game/Maps/Wizard_Tower
+[2024.05.01-22.24.16:039][942]LogLoad: LoadMap: /Game/Maps/Wizard_Tower
+[2024.05.01-22.24.16:039][942]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.24.16:041][942]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.05.01-22.24.16:042][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-22.24.16:117][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.01-22.24.16:131][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2024.05.01-22.24.16:139][942]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.24.16:199][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060866s)
+[2024.05.01-22.24.16:199][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.061060s)
+[2024.05.01-22.24.16:200][942]LogAudio: Display: Audio Device (ID: 10) registered with world 'Wizard_Tower'.
+[2024.05.01-22.24.16:200][942]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-22.24.16:200][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-22.24.16:201][942]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.05.01-22.24.16:202][942]LogPlayLevel: PIE: World Init took: (0.002263s)
+[2024.05.01-22.24.16:202][942]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.01-22.24.16:211][942]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 0) at 2024.05.01-17.24.16
+[2024.05.01-22.24.16:212][942]LogWorld: Bringing up level for play took: 0.009448
+[2024.05.01-22.24.16:216][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.24.16:217][942]LogLoad: Took 0.178952 seconds to LoadMap(/Game/Maps/UEDPIE_0_Wizard_Tower)
+[2024.05.01-22.24.28:009][118]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.01-22.24.28:009][118]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.01-22.24.30:355][150]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.01-22.24.30:355][150]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.01-22.24.30:358][150]LogNet: Browse: /Game/Maps/Wizard_Tower
+[2024.05.01-22.24.30:358][150]LogLoad: LoadMap: /Game/Maps/Wizard_Tower
+[2024.05.01-22.24.30:358][150]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.24.30:360][150]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.05.01-22.24.30:362][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-22.24.30:430][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.01-22.24.30:440][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2024.05.01-22.24.30:482][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.24.30:540][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057674s)
+[2024.05.01-22.24.30:540][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Wizard_Tower.Wizard_Tower to /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower (0.057822s)
+[2024.05.01-22.24.30:540][150]LogAudio: Display: Audio Device (ID: 10) registered with world 'Wizard_Tower'.
+[2024.05.01-22.24.30:540][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-22.24.30:541][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-22.24.30:541][150]LogAIModule: Creating AISystem for world Wizard_Tower
+[2024.05.01-22.24.30:542][150]LogPlayLevel: PIE: World Init took: (0.002133s)
+[2024.05.01-22.24.30:542][150]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.01-22.24.30:556][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Wizard_Tower.Wizard_Tower up for play (max tick rate 0) at 2024.05.01-17.24.30
+[2024.05.01-22.24.30:557][150]LogWorld: Bringing up level for play took: 0.013484
+[2024.05.01-22.24.30:561][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.24.30:563][150]LogLoad: Took 0.204440 seconds to LoadMap(/Game/Maps/UEDPIE_0_Wizard_Tower)
+[2024.05.01-22.24.31:177][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.24.31:177][159]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Wizard_Tower
+[2024.05.01-22.24.31:177][159]LogWorld: UWorld::CleanupWorld for Wizard_Tower, bSessionEnded=true, bCleanupResources=true
+[2024.05.01-22.24.31:179][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-22.24.31:274][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.01-22.24.31:285][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-22.24.31:313][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.01-22.24.31:315][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.01-22.24.31:315][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.01-22.24.31:318][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.01-22.24.31:336][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.01-22.24.31:448][160]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.01-22.24.49:461][388]BlueprintLog: New page: Compile WBP_Timer
+[2024.05.01-22.24.49:578][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.05.01-22.24.50:722][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-22.24.50:888][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Timer" FILE="../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset" SILENT=true
+[2024.05.01-22.24.50:897][402]LogSavePackage: Moving output files for package: /Game/UI/WBP_Timer
+[2024.05.01-22.24.50:897][402]LogSavePackage: Moving '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Saved/WBP_Timer8AD0B865458379F66BA151AC6D9501B6.tmp' to '../../../../../../Users/riyap/OneDrive/Documents/Unreal Projects/cs415_final_project 5.3/Content/UI/WBP_Timer.uasset'
+[2024.05.01-22.24.50:904][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 4.70 sec)
+[2024.05.01-22.24.50:906][402]AssetCheck: New page: Asset Save: WBP_Timer
+[2024.05.01-22.24.50:906][402]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_Timer.WBP_Timer
